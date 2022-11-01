@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlgaWorks.iml" filepath="$PROJECT_DIR$/AlgaWorks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.algaworks.listas/com.algaworks.listas.iml" filepath="$PROJECT_DIR$/com.algaworks.listas/com.algaworks.listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.algaworks.streams/com.algaworks.streams.iml" filepath="$PROJECT_DIR$/com.algaworks.streams/com.algaworks.streams.iml" />
+    </modules>
+  </component>
+</project>
